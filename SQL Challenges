@@ -35,7 +35,7 @@ WHERE name LIKE '%Tennis%';
 facid	     name	       membercost	guestcost	initialoutlay	monthlymaintenance
 0	    Tennis Court 1	    5	         25	       10000	         200
 1	    Tennis Court 2	    5	         25	        8000	         200
-3     Table Tennis        0           5          320            10
+3     	    Table Tennis            0             5              320              10
 
 
 ## challenge 3: How can you retrieve the details of facilities with ID 1 and 5? Try to do this wihtout using the OR operator.
