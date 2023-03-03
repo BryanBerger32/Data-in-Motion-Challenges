@@ -1,2 +1,2 @@
 # Data-in-Motion-Challenges
-Challenges in SQL, Python, and Data Visualizations via Data in Motion
+Challenges in SQL and Python via Data in Motion
